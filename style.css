@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+   background-color: hsl(0, 0%, 8%); 
+font-family: 'Inter', sans-serif;
+}
+#card{
+    background-color:hsl(0, 0%, 12%) ;
+    height: 520px;
+    width: 300px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 70px;
+    
+}
+#card img{
+    border-radius: 50%;
+    height: 15%;
+    margin-top: 15px;
+}
+.name-txt{
+    color: hsl(0, 0%, 100%);
+    margin-top: 20px;
+}
+.location-txt{
+    color:hsl(75, 94%, 57%) ;
+    margin-top: 10px;
+}
+.descrip-txt{
+    color: hsl(0, 0%, 100%);
+    margin-top: 20px;
+    font-size: 14px;
+}
+.box-1{
+height: 40px;
+width: 250px;
+background-color:hsl(0, 0%, 20%) ;
+margin: 0 auto;
+border-radius: 10px;
+margin-top: 20px;
+color: white;
+font-size: 14px;
+
+}
+.box-2{
+height: 40px;
+    width: 250px;
+    background-color: hsl(0, 0%, 20%);
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 15px;
+    color: white;
+    font-size: 14px;
+}
+.box-3{
+height: 40px;
+    width: 250px;
+    background-color: hsl(0, 0%, 20%);
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 15px;
+    color: white;
+    font-size: 14px;
+}
+.box-4{
+height: 40px;
+    width: 250px;
+    background-color: hsl(0, 0%, 20%);
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 15px;
+    color: white;
+    font-size: 14px;
+}
+.box-5{
+height: 40px;
+    width: 250px;
+    background-color: hsl(0, 0%, 20%);
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 15px;
+    color: white;
+    font-size: 14px;
+}
+button:hover{
+
+    background-color:hsl(75, 94%, 57%) ;
+    color:hsl(0, 0%, 20%) ;
+}
